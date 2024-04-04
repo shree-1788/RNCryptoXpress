@@ -1,0 +1,8 @@
+{
+  "blockstream": "https://blockstream.info/testnet/api",
+  "polygonscan": "https://api-testnet.polygonscan.com/api",
+  "coingecko_base_url": "https://api.coingecko.com/api/v3",
+  "polygonMaticMumbaiChainStack": "https://matic-mumbai.chainstacklabs.com",
+  "blastApi": "https://polygon-testnet.public.blastapi.io",
+  "polygonRPCM": "https://polygon-mumbai.infura.io/v3/1eeb13d2e1a34097ae85143595c57ddf"
+}
